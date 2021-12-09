@@ -1,1 +1,1 @@
-{ "name": "example", "deps": [], "modules": [ "Example" ] }
+[{ "name": "example", "deps": [], "modules": [ "Example" ] }]
