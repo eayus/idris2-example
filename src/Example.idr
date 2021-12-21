@@ -2,4 +2,4 @@ module Example
 
 export
 example : IO ()
-example = putStrLn "Hello from example library from git!"
+example = putStrLn "Hello from eayus/idris2-example!"
